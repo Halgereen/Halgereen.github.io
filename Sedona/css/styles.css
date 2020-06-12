@@ -1,0 +1,221 @@
+header {
+	widht: 100%;
+	height: 60px;
+	background: #ffffff;
+	position: relative;
+}
+body {
+	color: #000000; 
+    font: 14px "PT Sans";
+}
+.wrapper{
+    width: 768px;
+    margin:auto;
+    text-align: center;
+}
+.navigation ul li {
+    line-height: 26px;
+    color:#000000;
+    list-style: none;
+    padding-right: 40px;
+    text-align: top;
+}
+.navigation li a {
+     color: #000000;
+    text-decoration: none;
+}
+.navigation {
+    display: inline-flex;
+}
+.nav1 ul li{
+    display: inline-flex;
+    text-align: left;
+}
+.navigation a:hover {
+    color: #81b3d2;
+}
+.navigation a:active {
+    color: #dcdcdc;
+}
+.navigation a:focus {
+    color: #766257;
+}
+.logo {
+    display: inline-flex;
+    text-align: center;
+}
+.nav2 ul li{
+    display: inline-flex;
+    text-align: right;
+}
+.img {
+    text-align: center;
+}
+.img2 {
+    margin-top: 50px;
+}
+.heading {
+    text-align: center;
+}
+figure {
+    display: inline-block;
+}
+.menu {
+    margin-top: 50px;
+}
+.img3 {
+    margin-top: 50px;
+}
+.heading2 {
+    height: 140px;
+    padding-top: 55px;
+}
+button {
+    color: #ffffff;
+    background-color: #766257;
+    border: 1px solid #766257;
+    border-radius: 1px;
+    height: 60px;
+    width: 400px;
+}
+button:hover {
+    color: #ffffff;
+    background-color: #604e44;
+    border: 1px solid #604e44;
+    border-radius: 1px;
+    height: 60px;
+    width: 400px;
+}
+button:active {
+    color: #ffffff;
+    background-color: #503e34;
+    border: 1px solid #503e34;
+    border-radius: 1px;
+    height: 60px;
+    width: 400px;
+}
+footer {
+    height: 120px;
+}
+footer h2 {
+    float: left;
+    padding-left: 0px;
+}
+footer li {
+    list-style: none;
+    display: inline-block;
+}
+footer ul {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.logoacademy {
+    float: right;
+}
+.footer {
+    display: inline-flex;
+    margin-top: 20px;
+}
+.footer a {
+    color: black;
+    text-decoration: none;
+}
+.fb_link {
+    padding: 15px;
+    background-color: #81b3d2;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+      -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .tw_link {
+    padding: 15px;
+    background-color: #81b3d2;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+      -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .you_link {
+    padding: 15px;
+    background-color: #81b3d2;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+      -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .fb_link:hover {
+    padding: 15px;
+    background-color: #669ec1;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+      -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .tw_link:hover {
+    padding: 15px;
+    background-color: #669ec1;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+      -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .you_link:hover {
+    padding: 15px;
+    background-color: #669ec1;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+      -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .fb_link:active {
+    padding: 15px;
+    background-color: #5596be;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+      -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .tw_link:active {
+    padding: 15px;
+    background-color: #5596be;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+      -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+.you_link:active {
+    padding: 15px;
+    background-color: #5596be;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+      -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+.twitter:active  {
+    fill:#89b7d1;
+  }
+.facebook:active  {
+    fill:#89b7d1;
+  }
+.youtube:active  {
+    fill:#89b7d1;
+  }
+.logohtmlacademy:hover {
+    fill: #82b3d3;
+}
+.logohtmlacademy:active {
+    fill: #dfe1e2;
+}
+.logoacademy {
+    display:inline-flex;
+} 
